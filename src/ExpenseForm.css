@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: brown;
+}
+
+.formitem{
+    margin: 10px;
+    
+}
+input{
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+#submit:hover{
+    background-color: aquamarine;
+}
+input:hover{
+    background-color: rgb(240, 231, 231);
+}

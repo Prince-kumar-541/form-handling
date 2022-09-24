@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "title":"House rent",
+        "price":"32",
+        "date":"Mon Aug 29 2022 20:02:36 GMT+0530 (India Standard Time)"
+    },
+    {
+        "id":"2",
+        "title":"Phone",
+        "price":"32",
+        "date":"Mon Mar 2 2022 20:02:36 GMT+0530 (India Standard Time)"
+    }
+]

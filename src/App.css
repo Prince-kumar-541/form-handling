@@ -1,0 +1,14 @@
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: rgb(210, 210, 210);
+}
+
+*{
+    /* font-weight: bolder; */
+    /* color: brown; */
+    text-shadow: 0.5px 0.5px 1px black;
+}
