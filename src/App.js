@@ -19,7 +19,13 @@ function App() {
     setPersonInfo(person1);
   }
   return (
-    
+    <div>
+      <ExpenseForm personData = {personData}></ExpenseForm>
+
+      <div id="output">
+        <PersonData personInfo = {personInfo}/>
+      </div>
+    </div>
   );
 }
 
